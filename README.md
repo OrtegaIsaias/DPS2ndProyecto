@@ -14,3 +14,4 @@ Link de Figma: https://www.figma.com/proto/SBMl0muxRaV1Td8s0UBYo9/Sin-t%C3%ADtul
 Guia para el usuario: https://docs.google.com/document/d/1fK5XokLe1rwayEYRjTRZoUgj8RH3uA15q2rBwncH6ao/edit?usp=sharing
 Manual instalacion configuracion:  https://drive.google.com/file/d/1NaO1Xy-VecWIavUogfqfg4iocus1nBMl/view?usp=sharing
 *NOTA* Debido al tamano del archivo DPS act2.7z DEBE ser descargado para poder abrir todos los archivos,cla descarga demora un poco debido al tamaño******
+
