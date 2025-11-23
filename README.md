@@ -1,5 +1,6 @@
 Diseño y Programación de Software Multiplataforma DPS941 G01T
-
+Segundo Proyecto en React Native
+ Aplicación de Gestión de Eventos Comunitarios
 INTEGRANTES:
 Andrea Marcela Rico Figueroa RF160050
 Frank Alberto Hernández Silva HS171707
